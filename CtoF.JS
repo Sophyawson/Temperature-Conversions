@@ -6,4 +6,4 @@ function covertToFahrenheit( Celsius ) {
 
 let temperature = covertToFahrenheit(25)
 
-console.log( "Temperature in Fahrenheit: " + temperature)
+console.log( "Temperature in Fahrenheit: " + temperature + "F")
